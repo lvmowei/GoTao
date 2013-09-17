@@ -1,0 +1,7 @@
+(;AB[ae][bf][ce][de][ee][fd][fc][fb][fa]AW[ab][ca][eb][dc][cd]AP[MultiGo:3.6.0]
+SZ[19]
+
+(;B[db]N[正解];W[cb];B[bc];W[bd];B[ad];W[bb];B[ac];W[ea];B[ec];W[da];B[cc])
+(;B[db]N[变化];W[da];B[ec];W[bc];B[cb])
+(;B[cb]N[失败图1];W[bb];B[da];W[db];B[ba];W[ea];B[bd];W[ca])
+(;B[bc]N[失败图2];W[bb];B[db];W[bd];B[ec];W[cb]))

@@ -1,0 +1,20 @@
+(;AB[cb][cc][ce][dd][ed][fe][gc][hc][he][jb][kc][je][jf][mc][me][nd][pd]AW[ec][dc][fd][gb][hb][ib][ic][jd][kd][md]SZ[19]C[第6题：白先
+　基本图
+【审题】白棋只有冲击对方的封锁线才能趁
+势成活。
+〖提示〗黑棋外侧的气很紧，是个大弱点。
+]GN[发阳论详解]US[小蜜蜂]
+
+(;W[ld];B[nc];W[kf];B[lf];W[ke];B[kg];W[jg];B[kh]C[图一：白1试应手，正着。黑2如接在上边，则白3以下冲击黑棋的封锁线。黑4、8只能如此。])
+(;W[ld];B[nc];W[kf];B[lf];W[ke];B[kg];W[jg];B[kh];W[ie];B[if];W[hf];B[ig];W[ge]
+;B[id];W[fc];B[gf];W[gd];B[hg];W[hd];B[fa];W[ea];B[eb];W[db];B[da];W[ga]C[图二：接前图，白利用黑棋气紧的弱点成活。])
+(;C[图三：鉴于前图结果不利，故黑2补在外边抵抗。由于白3是恶手！至白19成劫杀，白失败。]W[ld];B[ne];W[lc];B[lb];W[fc];B[gd];W[ea];B[db];W[eb];B[ia];W[ha];B[fa];W[mb]
+;B[nc];W[kb];B[ka];W[jc];B[kb];W[ja]C[图三：鉴于前图结果不利，故黑2补在外边抵抗。由于白3是恶手！至白19成劫杀，白失败。])
+(;W[ld];B[ne];W[kb];B[lb];W[ka];B[la];W[lc];B[ja];W[mb];B[nc];W[jc];B[kb];W[ia]
+;B[nb];W[fc];B[gd];W[ea];B[fa];W[ga];B[eb];W[db];B[da];W[fb]C[图四：白3、5妙手！至23成活。白17如改在18位虎，黑22位一尖反杀白棋。])
+(;W[fc];B[gd];W[ld];B[nc];W[kb];B[lb];W[ka];B[la];W[ia];B[ea];W[ja];B[lc];W[fa]
+;B[ga];W[eb];B[fb];W[kf];B[lf];W[ke];B[kg];W[jg];B[kh]LB[db:a][jc:b][ha:c]C[图五：白1粘是恶手！失去了在中腹方面的利用。由此，白3粘时，黑4可安心地加强上边。黑10小飞是攻击要点！黑14扑绝妙！白15如在c位提，黑a位拉回便成净杀。本图结果成劫，白失败。变化中黑10如改在13位大飞，则白14、黑11、白a反成净活！又图中黑10如单走a位，白b提即活。])
+(;W[kb];B[lb];W[ka];B[la];W[fc];B[gd];W[ia];B[ea];W[fa];B[ga];W[eb]C[图六：白走1、3之后再5位粘也不对。结果与前图相似。白7如改走8位跳，黑7位一扳即杀。
+
+
+结论：白先活。图四是正解。图一、二是变化。]))

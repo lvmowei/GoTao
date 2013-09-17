@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:background="@drawable/main_background"
+    android:gravity="center|center_vertical"
+    >
+    <LinearLayout 
+    	android:orientation="vertical"
+    	android:layout_width="240dp"
+    	android:layout_height="360dp"
+    	android:gravity="center_horizontal"
+    	>
+		<ImageView 
+			android:id="@+id/appName"
+			android:src="@drawable/app_name"
+			android:layout_width="160dp"
+			android:layout_height="100dp"
+			android:adjustViewBounds="true"
+			android:scaleType="fitCenter"
+			/>
+		
+		<Button
+			android:id="@+id/goPuzzleLibBtn"
+			android:text="围棋题库"
+			android:background="@drawable/button_selector"
+			android:textSize="20dp"
+			android:layout_width="100dp"
+			android:layout_height="40dp"
+			android:layout_margin="10dp"
+			/>
+		
+		<Button
+			android:id="@+id/browseGoKifu"
+			android:text="棋谱浏览"
+			android:textSize="20dp"
+			android:background="@drawable/button_selector"
+			android:layout_width="100dp"
+			android:layout_height="40dp"
+			android:layout_margin="10dp"
+			/>
+			
+		<Button
+			android:id="@+id/doubleGame"
+			android:text="双人对弈"
+			android:textSize="20dp"
+			android:background="@drawable/button_selector"
+			android:layout_width="100dp"
+			android:layout_height="40dp"
+			android:layout_margin="10dp"
+			/>
+			
+		<Button
+			android:id="@+id/system"
+			android:text="系统设置"
+			android:textSize="20dp"
+			android:background="@drawable/button_selector"
+			android:layout_width="100dp"
+			android:layout_height="40dp"
+			android:layout_margin="10dp"
+			/>
+	</LinearLayout>
+</LinearLayout>
